@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Lemos
+## Olá! Eu sou o João Lemos!
 
 - 🔭 Atualmente faço curso técnico de Desenvolvimento de Sistemas
 - 🌱 Estou estudando React Native
